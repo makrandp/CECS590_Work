@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CameraApp/CameraApp.iml" filepath="$PROJECT_DIR$/CameraApp/CameraApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/CameraAppAssignment.iml" filepath="$PROJECT_DIR$/CameraAppAssignment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tacoorderingapp/tacoorderingapp.iml" filepath="$PROJECT_DIR$/tacoorderingapp/tacoorderingapp.iml" />
     </modules>
   </component>
 </project>
