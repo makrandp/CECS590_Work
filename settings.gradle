@@ -1,1 +1,1 @@
-include ':CameraApp', ':tacoorderingapp'
+include ':CameraApp', ':tacoorderingapp', ':canvasapp'

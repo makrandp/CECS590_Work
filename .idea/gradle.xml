@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CameraApp" />
+            <option value="$PROJECT_DIR$/canvasapp" />
             <option value="$PROJECT_DIR$/tacoorderingapp" />
           </set>
         </option>
